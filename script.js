@@ -8,7 +8,7 @@ function cancel(){
 }
 // Typewriter Effect
 const texts = [
-    "STUDENT",
+    "A STUDENT",
     "LOOKING FOR FULL-TIME OPPORTUNITIES "
 ]
 let speed  =100;
