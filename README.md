@@ -1,2 +1,2 @@
-# portfolio
-Portfolio to showcase my skills
+# Portfolio
+
