@@ -40,7 +40,7 @@ portfolio-website/
 ├── style.css
 ├── script.js
 ├── download.png
-├── Oishi Banerjee_Resume.pdf
+├── Oishi Banerjee.pdf
 └── README.md
 ```
 
